@@ -1,2 +1,2 @@
 # Neoplastic-Industries
-Neoplastic Industries - a Mindustry mod
+Neoplastic Industries - a WIP Mindustry mod
